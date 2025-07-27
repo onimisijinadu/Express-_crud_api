@@ -26,10 +26,6 @@ A simple RESTful API built with Express.js that performs Create, Read, Update, a
 
 express-crud-api/
 ├── index.js # Entry point
-├── data/
-│ └── items.js # In-memory item data
-├── routes/
-│ └── items.js # All CRUD logic
 ├── package.json
 ├── package-lock.json
 └── README.md
